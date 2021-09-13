@@ -1,0 +1,2 @@
+# google_trans_new__back_translation
+Translate given sentences resorting to google_trans_new
